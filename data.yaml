@@ -1,0 +1,16 @@
+train: ./train/images
+val: ./test/images
+
+nc: 12
+names: [
+        'BRISKET_1',
+        'CHUCK_1',
+        'CLOD/HEART_1',
+        'CLOD_TOP_BLADE_1',
+        'LIFTER MEAT/PECTORAL',
+        'NAVEL_1',
+        'RIB_BI_1',
+        'RIB_BNLS_1',
+        'RIB_SHORT_RIB_2',
+        'SHORT_RIB_CAP_2'
+]
